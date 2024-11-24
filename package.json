@@ -36,7 +36,6 @@
 	},
 	"strapi": {
 		"telemetryDisabled": true,
-		"template": "imcarlosguerrero/strapi-with-user-ownership",
-		"uuid": "158cadcd-9483-4569-b269-5eb39d513820"
+		"template": "imcarlosguerrero/strapi-with-user-ownership"
 	}
 }
